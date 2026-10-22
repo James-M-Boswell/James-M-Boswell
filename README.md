@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22James-M-Boswell%22%2C%22name%22%3A%22James%20Boswell%22%2C%22email%22%3A%22jamesboswell090%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Motivated%20IT%20professional%20with%20a%20strong%20foundation%20in%20IT%20fundamentals%20with%20a%20focus%20on%20cybersecurity%2C%20networking%20and%20AI.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Troubleshooting%22%5D%2C%22headlines%22%3A%5B%22Marine%20Corps%20Veteran%22%2C%22A%26P%20Certification%22%5D%2C%22customHeadlines%22%3A%5B%22Marine%20Corps%20Veteran%22%2C%22A%26P%20Certification%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22GitHub%22%2C%22desc%22%3A%22Established%20a%20central%20GitHub%20repository%20to%20showcase%20personal%20projects%2C%20version-controlled%20codebases%2C%20and%20ongoing%20technical%20development.%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22James-M-Boswell%22%2C%22name%22%3A%22James%20Boswell%22%2C%22email%22%3A%22jamesboswell090%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Motivated%20IT%20professional%20with%20a%20strong%20foundation%20in%20IT%20fundamentals%20with%20a%20focus%20on%20cybersecurity%2C%20networking%20and%20AI.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Troubleshooting%22%2C%22Computer%20Hardware%22%2C%22Operating%20Systems%22%2C%22Peripheral%20Devices%22%2C%22Wi-Fi%22%2C%22Git%22%2C%22Microsoft%20Azure%22%5D%2C%22headlines%22%3A%5B%22Marine%20Corps%20Veteran%22%2C%22A%26P%20Certification%22%5D%2C%22customHeadlines%22%3A%5B%22Marine%20Corps%20Veteran%22%2C%22A%26P%20Certification%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22GitHub%22%2C%22desc%22%3A%22Established%20a%20central%20GitHub%20repository%20to%20showcase%20personal%20projects%2C%20version-controlled%20codebases%2C%20and%20ongoing%20technical%20development.%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Deploy%20Windows%20Server%20on%20an%20Azure%20Virtual%20Machine%22%2C%22desc%22%3A%22Deployed%20Windows%20Server%202025%20on%20an%20Azure%20virtual%20machine%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -24,7 +24,13 @@ Motivated IT professional with a strong foundation in IT fundamentals with a foc
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square)
+🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-0969da?style=flat-square)
+
+🌐 Networking & Security: ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square)
+
+💻 Programming Languages & Tools: ![Git](https://img.shields.io/badge/Git-0969da?style=flat-square)
+
+☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square)
 
 ---
 
@@ -36,6 +42,7 @@ Motivated IT professional with a strong foundation in IT fundamentals with a foc
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
 | GitHub | Established a central GitHub repository to showcase personal projects, version-controlled codebases, and ongoing technical development. | ✅ Complete | [Open](https://github.com) |
+| Deploy Windows Server on an Azure Virtual Machine | Deployed Windows Server 2025 on an Azure virtual machine | ✅ Complete | — |
 
 </details>
 
